@@ -1,0 +1,12 @@
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans
+	http://www.springframework.org/schema/beans/spring-beans-3.0.xsd">
+	<bean id="hw" class="main.java.helloWorld" init-method="init" destroy-method="destroy">
+	<property name="Message" value="Hello world"></property>
+	</bean>
+
+	<bean id="hw1" class="main.java.HelloWorld1">
+	</bean>
+	<bean class="main.java.InitiateBean"></bean>
+	</beans>

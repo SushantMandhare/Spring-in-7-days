@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.6.0_24"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/springlib"/>
+	<classpathentry kind="lib" path="C:/Users/Sushan662007/Desktop/springjars/aopalliance-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sushan662007/Desktop/springjars/aspectjrt-1.6.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sushan662007/Desktop/springjars/aspectjtools-1.6.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sushan662007/Desktop/springjars/aspectjweaver-1.7.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sushan662007/Desktop/springjars/cglib-2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sushan662007/Desktop/springjars/spring-aop-3.2.0.RELEASE.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
